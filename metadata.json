@@ -1,0 +1,5 @@
+{
+  "name": "DocuId - Secure MS Word Add-on",
+  "description": "Securely access and manage your documents in MS Word with biometric authentication powered by iVALT.",
+  "requestFramePermissions": []
+}
