@@ -78,7 +78,7 @@ export default function App() {
                     backgroundColor: "var(--color-accent-600)",
                   }}
                   whileTap={{ scale: 0.98 }}
-                  href="https://github.com/jaskaran-ivalt/docuid-landing/releases/download/docuid/iVALT-Docuid-WordAddin-Installer.exe"
+                  href="https://github.com/jaskaran-ivalt/docuid-landing/releases/download/docuid/iVALT-Docuid-WordAddin-Installer-1.0.2.exe"
                   className="flex items-center justify-center gap-2 bg-brand-900 text-white px-6 py-3.5 rounded-xl font-bold text-sm transition-all shadow-lg shadow-brand-200"
                 >
                   <Download className="w-4 h-4" />
@@ -302,7 +302,7 @@ export default function App() {
                   backgroundColor: "var(--color-accent-600)",
                 }}
                 whileTap={{ scale: 0.95 }}
-                href="https://github.com/jaskaran-ivalt/docuid-landing/releases/download/docuid/iVALT-Docuid-WordAddin-Installer.exe"
+                href="https://github.com/jaskaran-ivalt/docuid-landing/releases/download/docuid/iVALT-Docuid-WordAddin-Installer-1.0.2.exe"
                 className="inline-flex items-center gap-3 bg-brand-900 text-white px-8 py-4 rounded-xl font-bold text-base transition-all shadow-xl shadow-brand-100"
               >
                 <Download className="w-5 h-5" />
